@@ -34,9 +34,9 @@ JSON file is accessible via http://www.rentalcars.com/js/vehicles.json
 |   P	     Premium	    |   P     Pick up				      |                           |                            |
 |   L	     Luxury	      |   V	    Passenger Van			  |                           |                            |
 |   X	     Special			|	                            |                           |                            |
-Examples:
-ECMN – Economy, 4 door, manual, petrol, no air conditioning
-FVAR – Full size passenger van, automatic, petrol, air conditioning
+* Examples:
+  * ECMN – Economy, 4 door, manual, petrol, no air conditioning
+  * FVAR – Full size passenger van, automatic, petrol, air conditioning
 
 
 •	Print out the highest rated supplier per car type, descending order, in the following format:
